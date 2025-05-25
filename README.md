@@ -1,4 +1,4 @@
-# MIT-Impact-Project
+# 3D Search
 
 ## Table of contents
 * [Introduction](#introduction)
